@@ -1,0 +1,47 @@
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.deps.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.runtimeconfig.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.runtimeconfig.dev.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/ref/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.pdb
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.csproj.AssemblyReference.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.AssemblyInfoInputs.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.AssemblyInfo.cs
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.csproj.CoreCompileInputs.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/ref/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.pdb
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.genruntimeconfig.cache
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.deps.json
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.runtimeconfig.json
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.runtimeconfig.dev.json
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.dll
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/ref/DataCompression.dll
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/bin/Debug/net5.0/DataCompression.pdb
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.csproj.AssemblyReference.cache
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.AssemblyInfoInputs.cache
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.AssemblyInfo.cs
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.csproj.CoreCompileInputs.cache
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.dll
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/ref/DataCompression.dll
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.pdb
+/mnt/187CFF823E380E40/Uniud/Magistrale/Laboratorio Matematica Computazionale/Progetto/20210715/20210614_01/DataCompression/obj/Debug/net5.0/DataCompression.genruntimeconfig.cache
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.exe
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.deps.json
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.runtimeconfig.json
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.runtimeconfig.dev.json
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.dll
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\ref\DataCompression.dll
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\bin\Debug\net5.0\DataCompression.pdb
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.AssemblyInfoInputs.cache
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.AssemblyInfo.cs
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.csproj.CoreCompileInputs.cache
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.dll
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\ref\DataCompression.dll
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.pdb
+D:\Uniud\Magistrale\Laboratorio Matematica Computazionale\Progetto\20210715\20210614_01\DataCompression\obj\Debug\net5.0\DataCompression.genruntimeconfig.cache

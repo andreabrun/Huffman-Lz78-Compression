@@ -1,0 +1,16 @@
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression.deps.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression.runtimeconfig.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression.runtimeconfig.dev.json
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/ref/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/bin/release/net5.0/DataCompression.pdb
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.csproj.AssemblyReference.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.AssemblyInfoInputs.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.AssemblyInfo.cs
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.csproj.CoreCompileInputs.cache
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/ref/DataCompression.dll
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.pdb
+/home/andrea/Documents/Development/LMC/20210614_01/DataCompression/obj/release/net5.0/DataCompression.genruntimeconfig.cache
